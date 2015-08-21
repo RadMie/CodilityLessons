@@ -8,3 +8,4 @@
 ### Lessons 2
 
 - FrogRiverOne (100/100)
+- PermCheck (100/100)
