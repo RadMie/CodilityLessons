@@ -9,3 +9,4 @@
 
 - FrogRiverOne (100/100)
 - PermCheck (100/100)
+- MissingInteger (100/100)
