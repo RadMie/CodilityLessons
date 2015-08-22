@@ -1,3 +1,4 @@
+<?php
 function solution($A) {
     
     sort($A);

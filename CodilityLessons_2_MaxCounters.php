@@ -1,3 +1,4 @@
+<?php
 function solution($N, $A) {
     
     $array = array_fill(0, $N, 0);

@@ -1,3 +1,4 @@
+<?php
 function solution($X, $Y, $D) {
 
     if($X == $Y) {

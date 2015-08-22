@@ -1,3 +1,4 @@
+<?php
 function solution($X, $A) {
     
     $count = 0;
