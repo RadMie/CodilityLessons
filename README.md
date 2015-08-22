@@ -11,3 +11,7 @@
 - PermCheck (100/100)
 - MissingInteger (100/100)
 - MaxCounters (100/60)
+
+### Lessons 3
+
+- PassingCars (100/100)
