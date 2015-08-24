@@ -16,4 +16,8 @@
 
 - CountDiv (100/100)
 - PassingCars (100/100)
+
+### Lessons 4
+
 - Triangle (100/100)
+- Distinct (100/100)
