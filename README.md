@@ -28,3 +28,7 @@
 - Nesting (100/100)
 - StoneWall (100/100)
 - Brackets (100/100)
+
+### Lessons 6
+
+- Dominator (100/100)
