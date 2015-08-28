@@ -32,3 +32,7 @@
 ### Lessons 6
 
 - Dominator (100/100)
+
+### Lessons 7
+
+- MaxProfit (100/100)
