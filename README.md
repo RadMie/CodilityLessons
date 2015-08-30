@@ -36,3 +36,4 @@
 ### Lessons 7
 
 - MaxProfit (100/100)
+- MaxSliceSum (100/100)
