@@ -37,3 +37,8 @@
 
 - MaxProfit (100/100)
 - MaxSliceSum (100/100)
+
+### Lessons 8
+
+- CountFactors (100/100)
+
