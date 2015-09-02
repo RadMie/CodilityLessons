@@ -41,4 +41,4 @@
 ### Lessons 8
 
 - CountFactors (100/100)
-
+- MinPerimeterRectangle (100/100)
